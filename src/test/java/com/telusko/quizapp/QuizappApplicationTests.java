@@ -1,10 +1,10 @@
-package com.vyoma.quiz.app;
+package com.telusko.quizapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuizAppApplicationTests {
+class QuizappApplicationTests {
 
 	@Test
 	void contextLoads() {
